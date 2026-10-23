@@ -22,6 +22,13 @@ This sample demonstrates a service agreement workflow built with the [Syncfusion
     width="1000" />
 </p>
 
+The screenshot below shows the final stage of the workflow, where the document can be exported in either PDF or DOCX format.
+<p align="center">
+  <img
+    src="images/Service-Agreement-Workflow-Final-Stage-React-DOCX-Editor.png"
+    alt="Final Stage of Service Agreement Workflow using React DOCX Editor"
+    width="1000" />
+</p>
 
 ## How to Run the Sample
 
